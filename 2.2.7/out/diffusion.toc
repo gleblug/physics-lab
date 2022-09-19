@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Steps and plans}{2}{0}{1}
+\beamer@sectionintoc {2}{Our purposes}{7}{0}{2}
+\beamer@sectionintoc {3}{Theory and exegesis}{9}{0}{3}
+\beamer@sectionintoc {4}{Data analysis}{11}{0}{4}
+\beamer@sectionintoc {5}{Discussion, overview}{13}{0}{5}
+\beamer@sectionintoc {6}{Suggestions for improving experiment}{15}{0}{6}
+\beamer@sectionintoc {7}{Conclusion}{17}{0}{7}
